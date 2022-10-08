@@ -5,7 +5,7 @@
  * The sellingPrice returned should also be overridden. The selling price
  * should be equal to the:
  *     Object's price + Object's max speed
- * If the object is Tradable (and Tradable.MISSING_PRICE otherwise.)
+ * If the object is Tradable, (and Tradable.MISSING_PRICE otherwise.)
  *
  * Look at DomesticatableTrader.java for an example.
  */
